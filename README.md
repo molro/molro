@@ -1,5 +1,6 @@
 ### I am Mauricio  👋
-[![NodeJs][nodejs-shield]][node-url] [![Express.js][expressjs-shield]][expressjs-url] [![MongoDB][mongodb-shield]][mongoDB-url][![Docker][docker-shield]][docker-url] <br/>
+[![MongoDB][mongodb-shield]][mongoDB-url][![Express.js][expressjs-shield]][expressjs-url][![NodeJs][nodejs-shield]][node-url]<br/>
+[![Docker][docker-shield]][docker-url] <br/>
 I am a backend developer with experience as a freelance worker. 
 My speciality is backend development with NodeJs, but as a freelance worker, I have been in touch with different technologies, such as Python, SQL databases, Firebase, MongoDB. 
 Also, I have played with React as a frontend tool and some DevOps tools. 
