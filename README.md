@@ -1,5 +1,6 @@
 ### I am Mauricio  👋
 [![MongoDB][mongodb-shield]][mongoDB-url][![Express.js][expressjs-shield]][expressjs-url][![NodeJs][nodejs-shield]][node-url]<br/>
+[![MySql][mysql-shield]][mysql-url]
 [![Docker][docker-shield]][docker-url] <br/>
 I am a backend developer with experience as a freelance worker. 
 My speciality is backend development with NodeJs, but as a freelance worker, I have been in touch with different technologies, such as Python, SQL databases, Firebase, MongoDB. 
@@ -30,7 +31,13 @@ Here are some ideas to get you started:
 [expressjs-url]: https://expressjs.com
 [mongoDB-shield]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [mongoDB-url]: https://www.mongodb.com
+
+[mysql-shield]:https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]:https://www.mysql.com
+
 [mongoose-shield]: https://img.shields.io/badge/mongoose-6.6.5-red
 [mongoose-url]: https://mongoosejs.com
+
+
 [docker-shield]:https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [docker-url]: https://www.docker.com
