@@ -1,5 +1,12 @@
 ### I am Mauricio  👋
 
+I am a backend developer with experience as a freelance worker. 
+My speciality is backend development with NodeJs, but as a freelance worker, I have been in touch with different technologies, such as Python, SQL databases, Firebase, MongoDB. 
+Also, I have played with React as a frontend tool and some DevOps tools. 
+I have six years of previous experience at a public university, as academic manager, research assistant and technical specialist.
+
+I am a big fan of technology and IT. Because of this, I would like to be close to the tech side, as a developer or another technical position where my experience and IT knowledge could be a great combination.
+
 
 
 <!--
